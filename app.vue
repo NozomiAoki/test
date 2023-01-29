@@ -1,6 +1,6 @@
 <template>
   <div>
     <!-- <NuxtWelcome /> -->
-    あああ
+    ボタン
   </div>
 </template>
